@@ -1,4 +1,4 @@
-# Project
+# Code Generation and Context Protocol
 
 
 ## Give a Star! :star:
